@@ -1,6 +1,13 @@
 # angular-zoom [![npm version](https://badge.fury.io/js/angular-zoom.svg)](https://badge.fury.io/js/angular-zoom)
 A angular zoom library for images based on zoom.js
 
+### Features
+
+* Smooth transition of image to the original size
+* After clicking the image to zoom in, ESC key | scroll away | Mouse click - to zoom out
+
+[Demo](https://nishantmc.github.io/angular-zoom.github.io/)
+
 ![Screenshot](zoomDemo.gif)
 ### Installation
 
